@@ -1,0 +1,1 @@
+python telegram_minoland.py
